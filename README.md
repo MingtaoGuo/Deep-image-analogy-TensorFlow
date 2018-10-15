@@ -22,3 +22,7 @@ This code mainly implements the interesting paper [Visual Attribute Transfer thr
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/girl_A.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/girl_A_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/girl_B.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/girl_B_prime.jpg)|
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/wlh.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/wlh_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/catong_prime.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/catong.jpg)|
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao_prime.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse.jpg)|
+
+These results are not satisfactory compare to paper's attritive results
+# Acknowledgement
+Thanks for the PatchMatch code from [harveyslash](https://github.com/harveyslash/PatchMatch)
