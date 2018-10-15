@@ -52,8 +52,8 @@ def DeepImageAnalogy(img, ref, alpha_L, patch_size, search_radius, itr):
 
 
 if __name__ == "__main__":
-    A = misc.imresize(np.array(Image.open("./pig.jpg")), [224, 224])[np.newaxis, :, :, :]
-    B_prime = misc.imresize(np.array(Image.open("./pig_.jpg")), [224, 224])[np.newaxis, :, :, :]
+    A = misc.imresize(np.array(Image.open("./IMAGES/girl_A.jpg")), [224, 224])[np.newaxis, :, :, :]
+    B_prime = misc.imresize(np.array(Image.open("./IMAGES/girl_B_prime.jpg")), [224, 224])[np.newaxis, :, :, :]
     # B_prime = np.dstack((B_prime, B_prime, B_prime))[np.newaxis, :, :, :]
     alpha_L = [0.1, 0.6, 0.7, 0.8]  # start: [0.1, 0.6, 0.7, 0.8] +-2
     patch_size = [5, 5, 3, 3, 3]
