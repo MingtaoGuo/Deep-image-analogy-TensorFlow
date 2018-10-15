@@ -9,11 +9,11 @@ This code mainly implements the interesting paper [Visual Attribute Transfer thr
 
 ===================
 
-python 3.5
-tensorflow1.4.0
-numpy
-scipy
-pillow
+1. python 3.5
+2. tensorflow1.4.0
+3. numpy
+4. scipy
+5. pillow
 
 ===================
 # Results
