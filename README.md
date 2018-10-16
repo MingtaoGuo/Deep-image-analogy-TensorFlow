@@ -35,6 +35,6 @@ Step 3. execute Main.py
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao_prime.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse.jpg)|
 
 #### Time: 3 minutes for 224x224 image size
-These results are not satisfactory compare to paper's attractive results
+#### These results are not satisfactory compare to paper's attractive results
 # Acknowledgement
 Thanks for the PatchMatch code from [harveyslash](https://github.com/harveyslash/PatchMatch)
