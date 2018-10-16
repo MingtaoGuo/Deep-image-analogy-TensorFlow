@@ -8,7 +8,7 @@ This code mainly implements the interesting paper [Visual Attribute Transfer thr
 # How to use 
 
 ------------------------------------------------------
-Step 1. Download the vgg19.npy(BaiduDrive), and put it into the folder 'vgg19'
+Step 1. Download the vgg19.npy([BaiduDrive](https://pan.baidu.com/s/1V6JOGJ5O2rabZ_ZLdCF30w)), and put it into the folder 'vgg19'
 
 Step 2. Modify the image's path in Main.py
 
