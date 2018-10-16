@@ -1,9 +1,18 @@
 # Deep-image-analogy-TensorFlow
-implementation of the paper : Deep image analogy
+Implementation of the paper : Deep image analogy
 
 # Introduction
 This code mainly implements the interesting paper [Visual Attribute Transfer through Deep Image Analogy](http://cn.arxiv.org/pdf/1705.01088), details of the algorithm please see the paper. 
 ![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/suanfa.jpg)
+
+# How to use 
+------------------------------------------------------
+Step 1. Download the vgg19.npy(BaiduDrive), and put it into the folder 'vgg19'
+
+Step 2. Modify the image's path in Main.py
+
+Step 3. excute Main.py
+--------------------------------------------------------
 
 # Python packages
 
