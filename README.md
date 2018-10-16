@@ -23,6 +23,7 @@ This code mainly implements the interesting paper [Visual Attribute Transfer thr
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/wlh.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/wlh_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/catong_prime.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/catong.jpg)|
 |![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse_prime.jpg)|::|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/sumiao_prime.jpg)|:|![](https://github.com/MingtaoGuo/Deep-image-analogy-TensorFlow/blob/master/IMAGES/lanse.jpg)|
 
-These results are not satisfactory compare to paper's attritive results
+#### Time: 3 minutes for 224x224 image size
+These results are not satisfactory compare to paper's attractive results
 # Acknowledgement
 Thanks for the PatchMatch code from [harveyslash](https://github.com/harveyslash/PatchMatch)
