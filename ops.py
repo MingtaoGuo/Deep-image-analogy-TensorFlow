@@ -100,7 +100,7 @@ def Deconvolve(sess, name, layer, warped_F_B_prime_L):
     print("Before L-BFGS, Loss: %f" % (sess.run(Loss)))
     opt = contrib.opt.ScipyOptimizerInterface(Loss, method="L-BFGS-B", options={"maxiter": 50}, var_list=tf.get_collection(tf.GraphKeys.GLOBAL_VARIABLES, var_name))
     opt.minimize(sess)
-    print("After L-BFGS, loss: %f" % (sess.run(Loss)))
+    print("After L-BFGS, Loss: %f" % (sess.run(Loss)))
     R_L_1 = sess.run(R_L_1)
     return R_L_1
 
