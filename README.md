@@ -12,7 +12,7 @@ Step 1. Download the vgg19.npy(BaiduDrive), and put it into the folder 'vgg19'
 
 Step 2. Modify the image's path in Main.py
 
-Step 3. excute Main.py
+Step 3. execute Main.py
 
 --------------------------------------------------------
 
